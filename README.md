@@ -19,4 +19,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
  ## Authors
  
- **Massimo Piedimonte** created OnePage in 03/03/2018
+ **Massimo Piedimonte** _(AKA. Maz)_
