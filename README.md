@@ -2,6 +2,8 @@
 
 Example of a single page application made with the WordPress REST API and React.js
 
+<img src="https://image.ibb.co/gWAEV7/screenshot_wpapireact.png" />
+
 * [Demo](http://bymaz.altervista.org/reactdemo/index.html) 
 * [Download](https://github.com/piedimonte/OnePage/archive/master.zip)
 
